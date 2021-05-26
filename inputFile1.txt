@@ -1,0 +1,160 @@
+Retailer
+Walmart
+1605 S Main St, Maryville, MO 64468
+Wells IPA
+India Pale
+Ale 5.0
+8 24
+Bud Light
+Light
+Lager 4.0
+6 8 12 18 24
+Heineken
+Pale
+Lager 5.0
+6 24
+Budweiser Shot
+Light
+Lager 7.0
+6 12 24
+Busch
+Light
+Lager 4.7
+6 8 12
+Millennium Buzz
+Light Red
+Lager 5.0
+4
+Colt 45
+Light
+Malt 8.0
+12 24
+Retailer
+Hy-Vee
+1217 S Main St, Maryville, MO 64468
+Guinness
+Deep Red
+Stout 5.0
+12 30
+Cameron's
+Ambear
+Ale 5.0
+4 6 24
+Heineken
+Pale
+Lager 5.0
+6 24
+Bass
+India Pale
+Ale 4.0
+24
+Bud Light
+Light
+Lager 4.0
+6 8 12 15 18 24 30 36 48
+Budweiser Shot
+Light
+Lager 7.0
+6 12 24
+Busch
+Light
+Lager 4.7
+6 8 12 15 24 30 60
+Corona Light
+Light
+Lager 3.7
+6 12 24
+Michelob Ultra
+Light
+Lager 4.0
+6 12 24
+Alexander Keith's
+Amber Red
+Ale 5.0
+12 24
+Colt 45
+Light
+Malt 8.0
+12 24
+Retailer
+Sam's Club
+5201 N Belt Hwy a, St Joseph, MO 64506
+Cameron's
+Ambear
+Ale 5.0
+4 6 24
+Kawartha
+Raspberry wheat
+Ale 3.5
+6 24
+Bass
+India Pale
+Ale 4.0
+24
+Wells IPA
+India Pale
+Ale 5.0
+4 8 24
+Bud Light
+Light
+Lager 4.0
+4 6 8 12 15 18 24 30 36 48
+Budweiser Shot
+Light
+Lager 7.0
+6 12 24
+Busch
+Light
+Lager 4.7
+4 6 8 12 15 24 30 60
+Corona Light
+Light
+Lager 3.7
+6 12 24
+Michelob Ultra
+Light
+Lager 4.0
+6 12 24
+Alexander Keith's
+Amber Red
+Ale 5.0
+12 24
+Millennium Buzz
+Light Red
+Lager 5.0
+4
+Boddington's
+Cream Golden Pale
+Ale 4.8
+4 24
+Colt 45
+Light
+Malt 8.0
+2 4 12 24
+Retailer
+Casey's General Store
+1520 N Main St, Maryville, MO 64468
+Bud Light
+Light
+Lager 4.0
+4 6 8 12 15 18 24 30 36 48
+Budweiser Shot
+Light
+Lager 7.0
+6 12 24
+Busch
+Light
+Lager 4.7
+4 6 8 12 15 24 30 60
+Corona Light
+Light
+Lager 3.7
+6 12 24
+Michelob Ultra
+Light
+Lager 4.0
+6 12 24
+Guinness
+Deep Red
+Stout 5.0
+12 30

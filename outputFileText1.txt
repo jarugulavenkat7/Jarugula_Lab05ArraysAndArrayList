@@ -1,0 +1,155 @@
+***************************************
+******Walmart Inventory for Beer's*****
+***************************************
+Walmart
+1605 S Main St, Maryville, MO 64468
+*****Beers List*****
+********************
+Beer Name: Wells IPA
+Beer Type: Ale, Beer Style: India Pale
+abv: 5.0%
+Available in packs of: 8, 24.
+--------------------
+Beer Name: Bud Light
+Beer Type: Lager, Beer Style: Light
+abv: 4.0%
+Available in packs of: 6, 8, 12, 18, 24.
+--------------------
+Beer Name: Heineken
+Beer Type: Lager, Beer Style: Pale
+abv: 5.0%
+Available in packs of: 6, 24.
+--------------------
+Beer Name: Budweiser Shot
+Beer Type: Lager, Beer Style: Light
+abv: 7.0%
+Available in packs of: 6, 12, 24.
+--------------------
+Beer Name: Busch
+Beer Type: Lager, Beer Style: Light
+abv: 4.7%
+Available in packs of: 6, 8, 12.
+--------------------
+Beer Name: Millennium Buzz
+Beer Type: Lager, Beer Style: Light Red
+abv: 5.0%
+Available in packs of: 4.
+--------------------
+Beer Name: Colt 45
+Beer Type: Malt, Beer Style: Light
+abv: 8.0%
+Available in packs of: 12, 24.
+--------------------
+********************
+***********************************
+***Remove Wells IPA from Walmart****
+***********************************
+
+Beer Name: Wells IPA
+Beer Type: Ale, Beer Style: India Pale
+abv: 5.0%
+Available in packs of: 8, 24.
+--------------------
+***************************************
+****List of strong beer from Hy-Vee****
+***************************************
+
+Beer Name: Guinness
+Beer Type: Stout, Beer Style: Deep Red
+abv: 5.0%
+Available in packs of: 12, 30.
+--------------------
+
+Beer Name: Cameron's
+Beer Type: Ale, Beer Style: Ambear
+abv: 5.0%
+Available in packs of: 4, 6, 24.
+--------------------
+
+Beer Name: Heineken
+Beer Type: Lager, Beer Style: Pale
+abv: 5.0%
+Available in packs of: 6, 24.
+--------------------
+
+Beer Name: Budweiser Shot
+Beer Type: Lager, Beer Style: Light
+abv: 7.0%
+Available in packs of: 6, 12, 24.
+--------------------
+
+Beer Name: Busch
+Beer Type: Lager, Beer Style: Light
+abv: 4.7%
+Available in packs of: 6, 8, 12, 15, 24, 30, 60.
+--------------------
+
+Beer Name: Alexander Keith's
+Beer Type: Ale, Beer Style: Amber Red
+abv: 5.0%
+Available in packs of: 12, 24.
+--------------------
+
+Beer Name: Colt 45
+Beer Type: Malt, Beer Style: Light
+abv: 8.0%
+Available in packs of: 12, 24.
+--------------------
+******************************************
+****List of light beer from Sam's Club****
+******************************************
+
+Beer Name: Kawartha
+Beer Type: Ale, Beer Style: Raspberry wheat
+abv: 3.5%
+Available in packs of: 6, 24.
+--------------------
+
+Beer Name: Bass
+Beer Type: Ale, Beer Style: India Pale
+abv: 4.0%
+Available in packs of: 24.
+--------------------
+
+Beer Name: Bud Light
+Beer Type: Lager, Beer Style: Light
+abv: 4.0%
+Available in packs of: 4, 6, 8, 12, 15, 18, 24, 30, 36, 48.
+--------------------
+
+Beer Name: Corona Light
+Beer Type: Lager, Beer Style: Light
+abv: 3.7%
+Available in packs of: 6, 12, 24.
+--------------------
+
+Beer Name: Michelob Ultra
+Beer Type: Lager, Beer Style: Light
+abv: 4.0%
+Available in packs of: 6, 12, 24.
+--------------------
+*************************************************************
+****Count of different beers available from each retailer****
+*************************************************************
+Walmart: 6
+Hy-Vee: 11
+Sam's Club: 13
+Casey's General Store: 6
+********************************************************
+****All different beers available from all retailers****
+********************************************************
+Bud Light
+Heineken
+Budweiser Shot
+Busch
+Millennium Buzz
+Colt 45
+Guinness
+Cameron's
+Bass
+Corona Light
+Michelob Ultra
+Alexander Keith's
+Kawartha
+Wells IPA
+Boddington's
